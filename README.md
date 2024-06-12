@@ -1,5 +1,6 @@
 # India-News-WEBAPP
 news web application in this the home page is associated with Top_Headline.html ie the home page is Top_Headline.html News are dynamically fetched by using news api which is obtained by generating news api key in this folder i used my api key which is associated with my email account
+this is linked-in link: https://www.linkedin.com/posts/suhani-907879212_html-css-javascript-activity-7205040331057152001-WF1x?utm_source=share&utm_medium=member_desktop
 this is home page
 ![Screenshot 2024-06-12 115813](https://github.com/Suhani-01/India-News-WEBAPP/assets/141126352/b1cc58c3-1c53-424c-b5cb-ce862f80bd39)
 these are some more pages 
