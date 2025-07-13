@@ -16,7 +16,7 @@ A news web application built using **React**, that fetches and displays the late
 ## 🛠️ Tech Stack
 
 - **Web Technologies**: HTML, CSS, JavaScript
-- **Data Source**: News API (e.g., [NewsAPI.org](https://newsapi.org))
+- **Data Source**: News API ( source : [NewsAPI.org](https://newsapi.org))
 
 ---
 
