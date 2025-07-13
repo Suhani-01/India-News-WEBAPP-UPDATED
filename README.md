@@ -9,7 +9,7 @@ A news web application built using **React**, that fetches and displays the late
 - 📂 News categories: Sports, Entertainment, Business, Technology, Health, and more
 - 🔄 Real-time news fetching via API
 - 💡 Clean and minimal UI
-- 📰 Multiple page application
+- 📰 Multi-Page application
   
 ---
 
