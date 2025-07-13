@@ -21,7 +21,7 @@ A news web application built using **React**, that fetches and displays the late
 ---
 
 
-## 🏠 Home page
+## 🏠 Home Page
 ![Screenshot 2024-06-12 115813](https://github.com/Suhani-01/India-News-WEBAPP/assets/141126352/b1cc58c3-1c53-424c-b5cb-ce862f80bd39)
 
 ## 📄 Other Pages
