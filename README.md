@@ -1,6 +1,6 @@
 # 📰 India News Web App
 
-A news web application built using **React**, that fetches and displays the latest news from different categories using a news API.
+A news web application built using html,css and javascript that fetches and displays the latest news from different categories using a news API.
 
 ---
 
